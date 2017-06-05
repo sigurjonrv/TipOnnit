@@ -1,5 +1,5 @@
 import React from 'react'
-import { storiesOf } from '@storybook/react'
+import { storiesOf } from '@kadira/storybook'
 import { IconButton } from 'components'
 
 storiesOf('IconButton', module)
